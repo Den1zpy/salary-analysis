@@ -7,22 +7,13 @@ The primary objective is to understand how key factors such as **gender, job tit
 
 
 salary-analysis/
-│
 ├── data/
 │   └── Salary_Data.csv
-│
-├── src/
-│   ├── __init__.py
-│   ├── load_data.py
-│   ├── analysis.py
-│   └── visualization.py
-│
 ├── notebooks/
-│   └── exploratory_analysis.ipynb
-│
-├── requirements.txt
-├── README.md
-└── main.py
+│   └── salary_analysis.ipynb
+├── .gitignore
+├── LICENSE
+└── README.md
 
 
 Rather than building a predictive model, the emphasis is on **data understanding, pattern discovery, and actionable insights**, similar to real-world analytics tasks in HR, compensation, and workforce planning.
