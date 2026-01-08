@@ -6,6 +6,10 @@ The primary objective is to understand how key factors such as **gender, job tit
 
 
 
+
+
+Rather than building a predictive model, the emphasis is on **data understanding, pattern discovery, and actionable insights**, similar to real-world analytics tasks in HR, compensation, and workforce planning.
+
 ```text
 salary-analysis/
 ├── data/
@@ -15,10 +19,8 @@ salary-analysis/
 ├── .gitignore
 ├── LICENSE
 └── README.md
+```
 
-
-
-Rather than building a predictive model, the emphasis is on **data understanding, pattern discovery, and actionable insights**, similar to real-world analytics tasks in HR, compensation, and workforce planning.
 
 ---
 
