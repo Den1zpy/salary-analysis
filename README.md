@@ -15,7 +15,7 @@ salary-analysis/
 ├── data/
 │   └── Salary_Data.csv
 ├── notebooks/
-│   └── salary_analysis
+│   └── salary_analysis.ipynb
 ├── .gitignore
 ├── LICENSE
 └── README.md
