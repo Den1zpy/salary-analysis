@@ -65,7 +65,8 @@ These insights are intended to mirror the type of exploratory analysis performed
 - Jupyter Notebook
 
 📁 Analysis notebook:
-notebooks/salary_analysis.ipynb
+
+`notebooks/salary_analysis.ipynb`
 
 ---
 
